@@ -16,7 +16,7 @@ function Widgets()  {
                 <TwitterTweetEmbed tweetId={'858551177860055040'} />
                 <TwitterTimelineEmbed sourceType='profile' screenName='cleverqazi' options={{ height:400 }} />
                 <TwitterShareButton url={'https://facebbok.com/cleverprogrammer'} options={{ text: "reactJs", via: 'cleverqazi' }} />
-            </div>
+            </div>``
         </div>
     )
 }

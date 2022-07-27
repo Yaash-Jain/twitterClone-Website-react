@@ -9,7 +9,7 @@ import MessageIcon from '@mui/icons-material/Message';
 import BookmarkIcon from '@mui/icons-material/Bookmark';
 import ListAltIcon from '@mui/icons-material/ListAlt';
 import MoreHorizIcon from '@mui/icons-material/MoreHoriz';
-import { Button } from '@material-ui/core';
+// import { Button } from '@material-ui/core';
 
 function Sidebar() {
     return (

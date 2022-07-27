@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Yaash-Jain.github.io/twitterClone-Website-react",
+  "homepage": "http://jainyash007.github.io/Twitter-Clone",
   "name": "twitter",
   "version": "0.1.0",
   "private": true,
@@ -45,6 +45,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^4.0.0"
   }
 }
